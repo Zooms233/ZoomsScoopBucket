@@ -5,7 +5,7 @@
 ## 使用方法
 
 ```powershell
-scoop bucket add zooms https://github.com/zooms/ZoomsScoopBucket
+scoop bucket add zooms https://github.com/Zooms233/ZoomsScoopBucket
 scoop install <app-name>
 ```
 
