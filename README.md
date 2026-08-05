@@ -16,7 +16,6 @@ scoop install <app-name>
 | 名称 | 描述 | 版本 |
 |------|------|------|
 | [TagStudio](https://docs.tagstud.io/) | A User-Focused Photo & File Management System | 9.6.1 |
-| [千问输入法](https://ime.qianwen.com/) | 千问输入法 - 说完即成稿（AI 输入法） | 0.5.0.7 |
 
 ## 许可证
 
