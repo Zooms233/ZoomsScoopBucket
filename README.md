@@ -16,6 +16,7 @@ scoop install <app-name>
 | 名称 | 描述 | 版本 |
 |------|------|------|
 | [TagStudio](https://docs.tagstud.io/) | A User-Focused Photo & File Management System | 9.6.1 |
+| [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 使用 Flutter 开发的 BiliBili 第三方客户端 | 2.1.0 |
 
 ## 许可证
 
