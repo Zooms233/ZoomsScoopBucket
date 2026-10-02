@@ -19,6 +19,7 @@ scoop install <app-name>
 | [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | 使用 Flutter 开发的 BiliBili 第三方客户端 | 2.1.0 |
 | [zhihu-cli](https://developer.zhihu.com/) | 知乎数据开放平台官方命令行工具（AI Agent） | 0.6.0 |
 | [zhihu-cli-skill](https://developer.zhihu.com/) | 知乎开放平台 Agent Skill 包（配合 zhihu-cli） | 0.7.1 |
+| [mineru-open-api](https://mineru.net) | MinerU Open API CLI：免费的命令行文档内容提取工具（PDF/Office/图片/网页转 Markdown） | 0.5.9 |
 
 ## 许可证
 
